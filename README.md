@@ -18,7 +18,7 @@ End the program
 ```
 #Write a program to read a csv file
 #Developed by : Daksha Subbaian
-#Reference no : 23003584
+#Reference no : 212223230036
 
 from google.colab import drive
 drive.mount('/content/drive')
@@ -32,7 +32,7 @@ print("Columns",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![output](/read.png)
+![image](https://github.com/user-attachments/assets/42fba6b1-0f0d-4a94-9ca4-941b191d659f)
 ![output](/excel.png)
 
 ## RESULT:
